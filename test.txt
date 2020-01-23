@@ -1,0 +1,9 @@
+Welcome to Rutgers Jeopardy 
+
+Instructions 
+
+Enter a number for  a Category 
+
+Then enter a number to choose an amount to play for
+
+Lastly enter your answer
